@@ -1,3 +1,3 @@
 # PythonPractice
 
-Python proj created on github and cloned to local repo
+Python proj created on github first and then cloned  to local machine.
