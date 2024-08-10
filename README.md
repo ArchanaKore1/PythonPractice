@@ -1,3 +1,3 @@
 # PythonPractice
 
-All Python programs from my local
+Python proj created on github and cloned to local repo
